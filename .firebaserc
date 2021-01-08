@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-app-f8fa5": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "login-app-f8fa5"
+        ]
+      }
+    }
+  }
+}
